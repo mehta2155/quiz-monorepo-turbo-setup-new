@@ -12,7 +12,16 @@
     "next": "13.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "ui": "*"
+    "ui": "*",
+    "assets": "*",
+    "components": "*",
+    "helpers": "*",
+    "hooks": "*",
+    "icons": "*",
+    "layouts": "*",
+    "modules": "*",
+    "requests": "*",
+    "styles": "*"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
